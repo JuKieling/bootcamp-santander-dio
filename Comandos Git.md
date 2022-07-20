@@ -1,0 +1,26 @@
+# Comandos Git
+
+- cd + nome da pasta : acessa pasta;
+- dir: lista as pastas;
+- mkdir + nome: cria nova pasta;
+- cd .. : retrocede uma pasta;
+- ctrl + l: limpa o terminal;
+- Tab: preenche automático;
+- del + nome arquivo: deleta todos os arquivos da pasta;
+- tecla :arrow_up_small: : puxa os últimos comandos;
+- rmdir: apaga a pasta e os arquivos;
+- git init: cria um repositório git;
+- -a : mostra os arquivos ocultos na pasta;
+- cd .git: entra na pasta oculta do git;
+- git config --global user.email + "email":  add email ao Git;
+- git config --global user.name+ "nome":  add nome ao Git;
+- git add *: prepara os arquivos para o commit;
+- git commit -m "descrição do commit": commitar docs para git;
+- git status: mostra o status dos arquivos no git;
+- mv + nome do arquivo + pasta: move arquivo para pasta selecionada:
+- git config --list: lista as configurações do git;
+- git remote add origin + endereço https repositório: adiciona repositório do github ao repositório local;
+- git remote -v: lista os repositórios;
+- git push origin: envia as alterações do git para o github;
+- git push origin: puxa os aquivos do git para o github;
+- git clone + https do repositório: clona o repositório do github ao repositório local;
