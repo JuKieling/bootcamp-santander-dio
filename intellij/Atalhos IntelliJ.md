@@ -20,4 +20,5 @@
 - ctrl + alt + L: organiza o código;
 - ctrl + d: duplica a linha;
 - ctrl + shift + seta pra cima/baixo: move a linha;
+- Commitar: git - commit + push;
 - 
