@@ -24,7 +24,7 @@
 
 * ctrl + m: expande a tela;
 
-* Comentar: /* */;
+* Comentar: /* */ ou seleciona o bloco e digita ctrl + shift + c;
 
 * cltr + d: apaga a linha;
 
