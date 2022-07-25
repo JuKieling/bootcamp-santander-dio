@@ -21,4 +21,6 @@
 - ctrl + d: duplica a linha;
 - ctrl + shift + seta pra cima/baixo: move a linha;
 - Commitar: git - commit + push;
+- Pesquisar classe: ctrl + N;
+- Fechar abas: ctrl + F4;
 - 
