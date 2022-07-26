@@ -23,4 +23,5 @@
 - Commitar: git - commit + push;
 - Pesquisar classe: ctrl + N;
 - Fechar abas: ctrl + F4;
+- ctrl + B: quando está em cima da classe no programa principal ele abre a aba da classe;
 - 

@@ -5,7 +5,9 @@
 ### Módulos estudos:
  - Introdução à programação e pensamento computacional - Juliana Mascarenhas :computer:
  - Introdução ao Git e GitHub - Otávio Reis :file_cabinet:
- - Dominando IDEs Java - Camila 
+ - Dominando IDEs Java - Camila Cavalcante
+ - Variáveis, Tipos de Dados e Operadores matemáticos em Java - Thiago Leite
+ - 
 
 
 
