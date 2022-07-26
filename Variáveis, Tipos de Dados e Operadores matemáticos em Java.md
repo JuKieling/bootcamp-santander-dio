@@ -29,7 +29,25 @@
 
 * Conceito: São valores e consequentemente operações que as variáveis podem assumir e sofrer, respectivamente;
 * Tipificação:
-  * Estática(forte) vs Dinâmica(fraco);
+  * Estática(forte - o tipo precisa ser definido no momento da criação) vs Dinâmica(fraco);
   * Primitivo vs Composto;
+* Tipos:
+  * textual:
+    * char - somente 1 caractere - usar com aspas simples;
+    * String - frases inteiras - aspas duplas.
+
+  * numeral:
+    * byte;
+    * short: ;
+    * int (números inteiros);
+    * long;
+    * float (números fracionados) - adicionar (f) ao final do número;
+    * double  (números fracionados)  - adicionar (d) ao final do número.
+
+  * lógico:
+    * boolean: true or false.
+
+  * objeto.
+
 * 
 
