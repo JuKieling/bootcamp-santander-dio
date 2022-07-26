@@ -28,10 +28,13 @@
 ### Tipos de Dados
 
 * Conceito: São valores e consequentemente operações que as variáveis podem assumir e sofrer, respectivamente;
+
 * Tipificação:
   * Estática(forte - o tipo precisa ser definido no momento da criação) vs Dinâmica(fraco);
   * Primitivo vs Composto;
+  
 * Tipos:
+
   * textual:
     * char - somente 1 caractere - usar com aspas simples;
     * String - frases inteiras - aspas duplas.
@@ -49,5 +52,20 @@
 
   * objeto.
 
-* 
+  ### Operadores aritméticos:
+
+* Tipos:
+
+  * Pós-fixados: ex++ (soma 1) e ex-- (diminui 1);
+  * prefixado: ++ex (primeiro soma) e --ex (primeiro subtrai);
+  * aritimético: +, -, *, / e % ;
+  * atribuição: =, +=, -=, *=, /=, e %=;
+
+
+### Casting (conversões):
+
+- conceito: é a transformação de uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa.
+- tipos:
+  - Upcast (implícito) - para um dado maior;
+  - Dowbcast (explícito) - para um dado menor;
 
