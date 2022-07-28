@@ -7,7 +7,8 @@
  - Introdução ao Git e GitHub - Otávio Reis :file_cabinet:
  - Dominando IDEs Java - Camila Cavalcante
  - Variáveis, Tipos de Dados e Operadores matemáticos em Java - Thiago Leite
- - 
+ - Entendendo Métodos Java - Thiago Leite
+ - Lógica condicional e controle de fluxos em Java - Thiago Leite
 
 
 
